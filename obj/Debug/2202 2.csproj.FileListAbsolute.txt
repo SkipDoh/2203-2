@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\git_exercise\2202 2\obj\Debug\2202 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git_exercise\2202 2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\git_exercise\2202 2\obj\Debug\2202 2_MarkupCompile.cache
